@@ -1,0 +1,53 @@
+{
+  "_from": "@ionic-native/themeable-browser",
+  "_id": "@ionic-native/themeable-browser@5.16.0",
+  "_inBundle": false,
+  "_integrity": "sha1-YWlPbRz7QLmED4zvo87B8qeyCtU=",
+  "_location": "/@ionic-native/themeable-browser",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@ionic-native/themeable-browser",
+    "name": "@ionic-native/themeable-browser",
+    "escapedName": "@ionic-native%2fthemeable-browser",
+    "scope": "@ionic-native",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/@ionic-native/themeable-browser/download/@ionic-native/themeable-browser-5.16.0.tgz",
+  "_shasum": "61694f6d1cfb40b9840f8cefa3cec1f2a7b20ad5",
+  "_spec": "@ionic-native/themeable-browser",
+  "_where": "H:\\app\\fit\\ionic4-for-iproud-app",
+  "author": {
+    "name": "ionic"
+  },
+  "bugs": {
+    "url": "https://github.com/ionic-team/ionic-native/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@types/cordova": "latest"
+  },
+  "deprecated": false,
+  "description": "Ionic Native - Native plugins for ionic apps",
+  "homepage": "https://github.com/ionic-team/ionic-native#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "@ionic-native/themeable-browser",
+  "peerDependencies": {
+    "rxjs": "^5.5.0 || ^6.5.0",
+    "@ionic-native/core": "^5.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionic-team/ionic-native.git"
+  },
+  "typings": "index.d.ts",
+  "version": "5.16.0"
+}
